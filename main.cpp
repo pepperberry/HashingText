@@ -1,4 +1,4 @@
-//hasing the hobbit
+//hashingText
 //3/6/2024
 //pepper berry
 #include "WordCounter.h"
